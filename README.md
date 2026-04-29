@@ -10,3 +10,5 @@ this is going to be fun
 I will talk about Croatain History.
 Croatia is known as Hrvatska
 
+## Necessary changes 
+Here we made some changes
